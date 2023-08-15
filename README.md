@@ -32,7 +32,8 @@ FitShare is a social networking platform designed for sports enthusiasts to conn
 
 3. You can see here the database organization :
 
-![SHEMA DATABASE](https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/d345173b-f2bf-42f5-bebc-3a7fdc13c3be)
+![SHEMA DATABASE](https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/7592b495-528f-4cdb-85bd-c6da12cb525a)
+
 
 ## Configure Cron Job for Ephemeral Posts
 
