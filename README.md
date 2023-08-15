@@ -75,9 +75,9 @@ Note: Ensure that the path to the PHP binary (/usr/bin/php) is accurate on your 
 
 ## Visual Walkthrough
 
-<img width="1624" alt="inscr" src="https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/da155bd9-c3c7-4aef-8e0f-30c212eef232">
-<img width="1624" alt="profil" src="https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/8964ceb4-5eac-43ca-82ac-f8dcaa2891ff">
-<img width="1624" alt="msg" src="https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/82e76519-fea0-4352-b1c9-ab0ea422b2cc">
-<img width="1624" alt="search" src="https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/a952dad3-1543-4992-9db8-63431587d1a4">
+<img width="1624" alt="inscr" src="https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/4da1ca0a-7720-4560-b0f2-d6408e7c93b7">
+<img width="1624" alt="profil" src="https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/cc8f4c3d-74fd-47c8-bfbe-591145a767b5">
+<img width="1624" alt="msg" src="https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/d84341e5-8057-4be0-9463-17100a5b9e85">
+<img width="1624" alt="search" src="https://github.com/omvr-yr/FITSHARE_social_network/assets/109440038/3b56ad90-63d8-4ced-9ff8-ebccd21df6ed">
 
 
