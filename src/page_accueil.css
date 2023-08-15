@@ -1,0 +1,101 @@
+header {
+  position: relative;
+}
+
+span{
+  font-size: 25px;
+ background: linear-gradient(to right, #5c7de9, #19e3da);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+  color: #736D6C;
+  margin-top: 0px;
+}
+
+.logo-top {
+  position: relative;
+  top : -5px;
+  left: 44%;
+  height: 50px;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 2px solid #ccc;
+  padding: 10px 20px;
+}
+
+nav img {
+  height: 30px;
+}
+
+
+.post-list {
+list-style: none;
+margin: 0 auto;
+padding: 0;
+max-width: 800px;
+}
+
+.post-rectangle {
+background-color: white;
+border: 1px solid #ddd;
+border-radius: 5px;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+margin-bottom: 20px;
+padding: 20px;
+position: relative;
+}
+
+.post-nom a {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: black;
+  text-decoration: none;
+}
+
+.post-nom a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+
+.post-text {
+font-size: 16px;
+margin-bottom: 10px;
+}
+
+.post-subtitle {
+color: #888;
+font-size: 14px;
+margin-top: 10px;
+}
+
+.signaler-button {
+background-color: #ff6666;
+border: none;
+color: white;
+cursor: pointer;
+font-size: 14px;
+padding: 5px 10px;
+position: absolute;
+top: 10px;
+right: 10px;
+opacity: 0.7;
+}
+
+.signaler-button:hover {
+opacity: 1;
+}

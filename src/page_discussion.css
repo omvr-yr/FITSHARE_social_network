@@ -1,0 +1,153 @@
+header {
+  position: relative;
+}
+
+span{
+  font-size: 25px;
+ background: linear-gradient(to right, #5c7de9, #19e3da);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+.logo-top {
+  position: relative;
+  top : -5px;
+  left: 44%;
+  height: 50px;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+  color: #736D6C;
+  margin-top: 0px;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 2px solid #ccc;
+  padding: 10px 20px;
+}
+
+nav img {
+  height: 30px;
+}
+
+
+.post-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.post-item {
+    margin-bottom: 20px;
+}
+
+.post-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.post-text {
+    margin-top: 5px;
+}
+
+.post-nom{
+  font-size: 13px;
+}
+.post-subtitle {
+    font-style: italic;
+    color: #999;
+    margin-top: 5px;
+}
+
+.post-rectangle {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+form {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
+}
+
+textarea {
+  width: 400px;
+  flex-grow: 1;
+  border: none;
+  border-radius: 25px;
+  background-color: #f2f3f5;
+  padding: 10px;
+  font-size: 14px;
+  padding: 10px;
+  resize: none;
+  border-radius: 20px 0px 20px 0;
+}
+
+input[type="submit"] {
+  background-color: #1877f2;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 0 20px 20px 0;
+}
+
+p{
+  margin-left: 1%;
+  font-style: bold;
+}
+
+#envoyeur{
+  color: #1f4799;
+}
+
+#receveur{
+  color: #59a6dc;
+}
+
+h6{
+  position: absolute;
+  position: fixed;
+  left: 53%;
+  top: 275px;
+  font-size: 1.2em;
+  line-height: 1.5;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  text-shadow: 5px 5px 5px #888888;
+  opacity: 0.7;
+}
+
+.box {
+  position: absolute;
+  position: fixed;
+  z-index: -1;
+  width: 350px;
+  height: 500px;
+  left: 800px;
+  top: 150px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}

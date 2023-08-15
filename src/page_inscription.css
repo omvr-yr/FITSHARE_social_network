@@ -1,0 +1,165 @@
+h1 {
+  text-align: center;
+  color: #044FFC;
+  font-family: sans-serif;
+}
+
+
+#mdp, #prenom, #pseudo, #confirm_mdp, #button, #nom {
+  display: inline-block;
+  position: relative;
+  margin-left: 52.5%;
+  top: 340px;
+  width: 340px;
+  height: 10px;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  margin-bottom: 0px;
+}
+
+#adminPassword{
+  display: inline-block;
+  position: relative;
+  margin-left: 68.5%;
+  top: 343px;
+  width: 100px;
+  height: 0px;
+  padding:  10px;
+  font-size: 10px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  margin-bottom: 0px;
+}
+
+#photo{
+  position: absolute;
+  left: 52.5%;
+  top: 630px;
+  font-size: 11px;
+  color: transparent;
+}
+
+label[for="photo"] {
+  position: absolute;
+  left: 64.5%;
+  top: 631px;
+  font-size: 14px;
+}
+
+
+.logo2{
+  position: absolute;
+  top : 150px;
+  left: 52% ;
+  width: 130px;
+}
+
+select {
+  position: absolute;
+  left: 52.5%;
+  top: 595px;
+  width: 230px;
+  font-size: 14px;
+  border-radius: 5px;
+  color: rgba(0, 0, 0, 0.5) ;
+}
+
+#photo{
+  color: rgba(0, 0, 0, 0.5) ;
+}
+
+.apercu{
+  position: absolute;
+  top : 0%;
+  left: 5% ;
+  border-radius: 25%;
+  width: 45%;
+}
+
+h2{
+  position: absolute;
+  top: 285px;
+  margin-left: 51%;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+h3{
+  position: absolute;
+  top: 690px;
+  margin-left: 58.5%;
+  margin-top: 20px;
+  font-size: 12px;
+  font-weight: normal;
+  text-align: center
+}
+
+h5{
+  position: absolute;
+  top: 252px;
+  margin-left: 58%;
+  margin-top: 25px;
+  font-size: 11.4px;
+  font-weight: bold;
+  text-align: center;
+  color : red;
+}
+
+span{
+  position: absolute;
+  top: 185px;
+  margin-left: 62%;
+  font-size: 45px;
+  font-weight: bold;
+   background: linear-gradient(to right, #5c7de9, #19e3da);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.error-img{
+  position: absolute;
+  top : 265px;
+  left: 51% ;
+  width: 30px;
+}
+
+.btn-inscrire {
+  display: inline-block;
+  margin-left: 52.5%;
+  margin-top: 35px;
+  position: relative;
+  top: 345px;
+  width: 370px;
+  text-align: right;
+  font-size: 16px ;
+  padding: 5px;
+  color: white;
+  background-color: #3cb0e4;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn-inscrire:hover {
+  background-color: #2980B9;
+}
+
+body {
+    background-color: #EFF2F3;
+    position: relative;
+    top: -50px;
+}
+
+.rectangle {
+  position: absolute;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  top : 130px;
+  left: 50% ;
+  width: 450px;
+  height: 650px;
+  border-radius: 5px;  
+  background-color: rgba(255, 255, 255, 0.6);
+}

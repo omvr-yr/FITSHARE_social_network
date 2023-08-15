@@ -1,0 +1,85 @@
+header {
+  position: relative;
+}
+
+span{
+  font-size: 25px;
+ background: linear-gradient(to right, #5c7de9, #19e3da);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+.logo-top {
+  position: relative;
+  top : -5px;
+  left: 44%;
+  height: 50px;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 2px solid #ccc;
+  padding: 10px 20px;
+}
+
+nav img {
+  height: 30px;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+  color: #736D6C;
+  margin-top: 0px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+textarea {
+  width: 100%;
+  height: 320px;
+  border: 2px solid #d9d9d9;
+  border-radius: 5px;
+  padding: 10px;
+  resize: vertical;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+input[type="submit"] {
+  background-color: #2196f3;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 30px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  margin-top: 20px;
+}
+
+input[type="submit"]:hover {
+  background-color: #0c7cd5;
+}
